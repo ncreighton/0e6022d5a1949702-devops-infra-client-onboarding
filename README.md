@@ -1,0 +1,2 @@
+# 0e6022d5a1949702-devops-infra-client-onboarding
+Every DevOps engineers and platform teams needs this — most just don't know it yet.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Devops Infra Client Onboarding — fully configured and ready to use - One-click activation directly from the b
